@@ -117,7 +117,7 @@ function App() {
             <input
               type="text"
               onChange={(e) => setUserAccount(e.target.value)}
-              placeholder="Account ID"
+              placeholder="Wallet Address"
             />
             <input
               type="number"
