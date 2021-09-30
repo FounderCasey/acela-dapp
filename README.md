@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+# [Acela Token](https://distracted-kirch-79a15a.netlify.app/)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This is a simple Web3 dapp, where I created my first token, Acela(ALA).
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+
+![image](https://user-images.githubusercontent.com/19507316/135409272-0b59ef8f-c898-4a84-bc48-6ee2ec589ced.png)
